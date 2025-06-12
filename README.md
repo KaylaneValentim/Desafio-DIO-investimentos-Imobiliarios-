@@ -15,5 +15,5 @@ A planilha é dividida entre **cinco segmentos**:
 
 5-**Gráfico** - Ao final da planilha, há um gráfico de pizza que apresenta de forma visual cada um desses percentuais.
 
-** OBSERVAÇÃO
-A imagem da planila está na pasta 
+## OBSERVAÇÃO
+A imagem da planilha está na pasta escrita "planilha de investimentos imobiliários".
