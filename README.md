@@ -14,3 +14,6 @@ A planilha é dividida entre **cinco segmentos**:
 4-**Tabela com tipos de fundos** - Tabela que apresenta os tipos de fundos de investimento imobiliários; papel, tijolo, híbrido, FOFs, desenvolvimento e hotelarias. De acordo com perfil que for selecionado no segmento quatro, é sugerido o percentual e valores que podem ser investido em cada fundo.
 
 5-**Gráfico** - Ao final da planilha, há um gráfico de pizza que apresenta de forma visual cada um desses percentuais.
+
+** OBSERVAÇÃO
+A imagem da planila está na pasta 
